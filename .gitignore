@@ -1,0 +1,3 @@
+./obj/*.o
+./src/compile_flags.txt
+image.ppm
